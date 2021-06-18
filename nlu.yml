@@ -294,6 +294,21 @@ example:  |
        - What is cost of Advanced course?
        - what are the different courses that are available on your platform? 
        - What is cost for 12 months course?
-       - 
+       -intent: Ask_programming_language
+        examples: |
+     -What is scratch programming?
+     -How scratch programming will help my child?
+     -Why scratch programming is not there in grade 5-7 starter pack?
+     -Which programming languages are taught in Basic course?
+     -Which programming languages are taught in Starter course?
+     -Which programming languages are taught in yearly course?
+     -Is python programming taught in Basic course?
+     -Is python possible to learn for a 5th grade student?
+     -Does your institution provide theoretical knowledge or even practical implementation of python is taught?
+     -what is Python?
+     -Can I do python programming on mobile?
+     -Why Python is popular language?
+     -Is Python programming used in industries?
+       
       
   
