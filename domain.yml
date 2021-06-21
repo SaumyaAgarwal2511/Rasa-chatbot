@@ -94,6 +94,46 @@ responses:
   - text: "Yes, contact us for more information."
 utter_about_tranfer:
 -text: "Yes, we can help your kid for achieve this gole.Please contact us for more information. "
+utter_greet:
+  - text: "Hey! How are you?"
+
+  utter_cheer_up:
+  - text: "Here is something to cheer you up:"
+    image: "https://i.imgur.com/nGF1K8f.jpg"
+
+  utter_did_that_help:
+  - text: "Did that help you?"
+
+  utter_happy:
+  - text: "Great, carry on!"
+
+  utter_goodbye:
+  - text: "Bye"
+
+  utter_iamabot:
+  - text: "I am a bot, powered by Rasa."
+
+  utter_Course_related:
+  - text: "CKY provides you with variety of courses which you change according to the interest of kids".
+
+  utter_Upgrade:
+  - text: "Yes,CKY provides you with variety of courses which you change according to the interest of kids".
+
+  utter_Contact_visit: 
+  - text: "Visit https://www.codekaroyaaro.com/ or call us at +91 8010996763".
+
+  utter_Python_easy:
+  - text: "Python is considered one of the easiest language to learn".
+
+  utter_About_Python:
+  - text: "Python is an interpreted, object-oriented, high-level programming language with dynamic semantics.Python's simple, easy to learn syntax emphasizes readability and therefore reduces the cost of program maintenance".
+
+  utter_Interest:
+  - text: "It depends on the interest of an individual".
+
+  utter_Future_python:
+ - text: "Python-based tech is driving innovation and new solutions".
+
 session_config:
   session_expiration_time: 60
   carry_over_slots_to_new_session: true
