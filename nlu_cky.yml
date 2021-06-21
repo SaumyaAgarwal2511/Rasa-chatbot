@@ -98,3 +98,46 @@ nlu:
   -Can my kid get a chance in Google or Microsoft?
   -Can my kid get a chance in Google for paid internship?
   -Can my kid get a chance in Microsoft for paid internship?
+  
+  -intent: Course_related
+   exaamples:
+  -Can I remove Mobile app development from starter course for grade 10+?
+  -Can I remove Mobile app development from intermediate course for grade 10+?
+  -Can I remove Mobile app development from professional course for grade 10+?
+  -Can I remove Mobile app development from starter course for grade 10+ and get discount?
+  -Can I remove Mobile app development from intermediate course for grade 10+ and get discount?
+  -Can I remove Mobile app development from professional course for grade 10+ and get discount?
+  -Can I remove Game app and Mobile app development from my course?
+  -Can I remove Game app and Website development from my course?
+  -Can I remove Game app and Website development from my course and get discount on fee?
+  -Can I remove Mobile app and Website development from my course?
+  -Can I remove Mobile app and Website development from my course and get discount on fee?
+  
+  -intent: Upgrade
+   examples:
+  -Can I upgrade my current course?
+  -Can I upgrade my Basic course to Starter course?
+  -Can I upgrade my Starter course to Yearly plan?
+  -Python courses for class 8th student?
+  -Python courses for class 9th student?
+  -Python courses for class 10th student?
+  -Do you give Python lab classes for practical use?
+  
+ -intent: Contact_visit
+  examples:
+  -Can I get any offer on course fee?
+  -Can I remove Game app and Mobile app development from my course and get discount on fee?
+  -What is extra in Starter course from basic course?
+  -What is extra in Yearly plan from basic course?
+  -What is extra in Yearly plan from Starter course?
+  -What is extra in Intermediate course from Starter course?
+  -What is extra in Professional course from Starter course?
+  -What is extra in Professional course from Intermediate course?
+  -I want to enroll my child for Python class?
+  -Can you call and guide me?
+  -Any separate course just for Python?
+  -Who will solve student issue related to python?
+  
+  
+  
+  
